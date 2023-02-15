@@ -1,0 +1,15 @@
+
+Insructions to adding a New Script to convert PDFs to the UI
+
+For TkinterUI Script
+	1. Add the name of folder to the List in Main *folder and script needs to have the same name
+	2. Add a new button to the list of other conversion buttons *starts at line 116 
+		**make sure you pass name of script to button event
+	3. Add import for the script 
+	4. Add a destroy into button event to get rid of button after one is clicked
+
+For New Conversion Script
+	1. Change main function name to def startConversion(docs): *docs will be passed in my UI
+	2. Change path for PDF's to move to Processed folder *./[script name]/Processed/
+	3. Add doc.split("\\")[1] to shutil.move() *shutil.move(doc, "./[script name]/Processed/" + doc.split("\\")[1])
+	4. Add error handling to be printed out to Output.txt

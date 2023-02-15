@@ -1,0 +1,116 @@
+Beginning conversion process. 
+
+Processing: FairShare_export\FSRAHOLD0122D010387 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD0122D010371  2005.80 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD0122A010371  1793.08 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD0122A010387 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD0722A010371  1793.08 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD0722D010371  2005.80 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD0722D010387 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD0722A010387 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD1221010371  5711.85 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD1221010387 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+Processing: FairShare_export\FSRAHOLD1221010371B  5711.85 OCR.pdf 
+Getting header 
+Got Bill To, Deduction, and Vendor 
+Getting Tables 
+Tables Recorded 
+Getting Totals and AdminFee 
+Got Totals and AdminFee 
+Recording extra data 
+Extra data Recorded
+
+
+Writing data to Excel 
+PDFs Moved to Proccessed Folder 
+Conversion Complete
